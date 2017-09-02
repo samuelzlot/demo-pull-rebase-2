@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    GitHub team -- software dev.
 
 # THANKS
 
